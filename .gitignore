@@ -1,0 +1,15 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.DS_Store
+*.zip
+log.txt
+dataset/financial_events_ocr_filled.csv
+AGENTS.md
+CLAUDE.md
